@@ -1,6 +1,6 @@
 # Shell
 
-Simple shell written in C as a portion or a university project. Code is heavily commented.
+Simple shell written by Cole Wentzel in C as a portion of a university project. Code is heavily commented.
 
 ### Features
 + Linux shell commands, ex  `$ cat` `$ ls` `$ ping`
